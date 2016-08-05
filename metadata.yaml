@@ -1,0 +1,34 @@
+_repo: Don-Carlos--A-Play_6789
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Boylan, R. Dillon
+    alias: Boylan, R. D. (R. Dillon)
+    gutenberg_agent_id: '952'
+    url: http://www.gutenberg.org/2009/agents/952
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Friedrich von
+    - Schiller, Johann Christoph Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: 1. Don Carlos, Infant von Spanien. -- 2. Briefe über Don Carlos
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carlos, Prince of Asturias, 1545-1568 -- Drama'
+- !lcc 'PT'
+- GITenberg
+title: 'Don Carlos: A Play'
+url: http://www.gutenberg.org/ebooks/6789
